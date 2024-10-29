@@ -1,13 +1,22 @@
-# LITA-EXCEL-Project-Documentation
----
-## Project Title
----
-### Project Overview - Intro of the project
----
-### Data Sources -Primary source of Data
+# LITA-EXCEL-Data Transformation Project-Documentation
+
+## Data Cleaning and Extraction Project
+
+### General Overview 
+
+This project handles two case studies of Data transformation (Data cleaning and Data extraction) which is a key part of data analysis.
+
+### Case Study One
+ A company named “I lost My Records Nigeria Limited” lost their records and was only able to recover the codes record. They however gave some vital information that would help in the retrieval of the department code, purchase date code and the asset category code.
+ 
+ ### Project Overview
+The goal of this project is to solve the problem of the organization by extracting the relevant Data from the information provided by the Company in order to replace the missing records which improves data accessibility and leads to more effective and timely decision making.
+
+### Data Sources 
+The Primary source of Data was from the Company, I lost My Records Nigeria Limited.
 ---
 
-### Tools used
+### Tools Used
 ---
 - Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office):
     1. For Data Cleaning,
@@ -15,29 +24,22 @@
     3. For Data visualization
 - GitHub for Portfolio Building
 
+  ### Excel Functions Used
+  -LEFT
+  -MID
+  -RIGHT
+  -FIND
+  -SEARCH
+
 ### Data Cleaning and Preparations
 ---
-In the initial phase of the data cleaning and preparations, we perform the following action;
+In the initial phase of the data cleaning and preparations, we perform the following actions;
   1. Data loading and inspection
   2. Handling missing variables
   3. Data cleaning and formatting
 
 
-### Exploratory Data Analysis
----
-EDA involved exploring the Data to answer some questions about the Data such as;
-- What is the overall sales trend?
-- Which products are top sellers?
-- What are the products on peak sales?
 
-### Data Analysis
----
-This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
-
-```SQL
-SELECT * FROM TABLE 1
-WHERE CONDITION = TRUE
-```
 
 ### Data Visualization
 
