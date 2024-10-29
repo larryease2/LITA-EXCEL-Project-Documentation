@@ -7,7 +7,7 @@
 This project handles two case studies of Data transformation (Data cleaning and Data extraction) which is a key part of data analysis.
 
 ### Case Study One
- A company named “I lost My Records Nigeria Limited” lost their records and was only able to recover the codes record. They however gave some vital information that would help in the retrieval of the department code, purchase date code and the asset category code.
+ A company named “I lost My Records Nigeria Limited” lost their records and was only able to recover the code record. They however gave some vital information that would help in the retrieval of the department code, purchase date code and the asset category code.
  
  ### Project Overview
 The goal of this project is to solve the problem of the organization by extracting the relevant Data from the information provided by the Company in order to replace the missing records which improves data accessibility and leads to more effective and timely decision making.
@@ -25,11 +25,11 @@ The Primary source of Data was from the Company, I lost My Records Nigeria Limit
 - GitHub for Portfolio Building
 
   ### Excel Functions Used
-  -LEFT
-  -MID
-  -RIGHT
-  -FIND
-  -SEARCH
+  - LEFT
+  - MID
+  - RIGHT
+  - FIND
+  - SEARCH
 
 ### Data Cleaning and Preparations
 ---
@@ -42,4 +42,5 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 
 ### Data Visualization
+	![alt text](image.jpg)
 
