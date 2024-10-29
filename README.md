@@ -2,7 +2,7 @@
 
 ## Data Cleaning and Extraction Project
 
-### General Overview 
+## General Overview 
 
 This project handles two case studies of Data transformation (Data cleaning and Data extraction) which is a key part of data analysis.
 
@@ -86,5 +86,12 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 
 ### Data Visualization
+
+![TEXT EXTRACTION1](https://github.com/user-attachments/assets/bdf4ad52-d001-48c5-a98a-141d599c1d1e)
+![text extraction2](https://github.com/user-attachments/assets/7bf3d4ca-222c-42c2-8df5-6a40c75e9205)
+![Text Extraction3](https://github.com/user-attachments/assets/1e23e7d6-4e67-488b-8bb0-a5577435e9ec)
+![Text Extraction4](https://github.com/user-attachments/assets/08e848d7-25db-4f3d-9a5d-7366513288b8)
+
+![Text Extraction5](https://github.com/user-attachments/assets/47e9d4e7-7fa9-4a17-9e7f-dfecd9d151e3)
 
 
