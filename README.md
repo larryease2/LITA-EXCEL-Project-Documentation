@@ -91,4 +91,7 @@ In the initial phase of the data cleaning and preparations, we perform the follo
 
 
 ### Data Visualization
+![Text Cleaning 5](https://github.com/user-attachments/assets/0955d262-b015-4a4c-8726-5e41d84c86d0)
+
+![Text Cleaning6](https://github.com/user-attachments/assets/79a70a82-464c-4039-96fe-1154ecb26dac)
 
