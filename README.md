@@ -20,7 +20,7 @@ The Primary source of Data was the Company, I lost My Records Nigeria Limited.
 ### Tools Used
 
 - Microsoft Excel [Download here](https://www.microsoft.com/en-us/microsoft-365/download-office):
-    1. For Data Cleaning,
+    1. For Data extraction,
     2. For Data Analysis
     3. For Data visualization
 - GitHub for Portfolio Building
@@ -60,7 +60,7 @@ The company staff of Just Vacated Limited entered some Data for analysis but it 
 
 ### Project Overview
 
- In real-life scenarios, sometimes the data we get will come out in some dirty formats. This project seeks to give an insight into the value of data cleaning in Data analysis. Data cleaning ensures accuracy, consistency and reliability of data.
+ Sometimes, the data we get will come out in some dirty formats in real-life scenarios. This project seeks to give an insight into the value of data cleaning in Data analysis. Data cleaning ensures accuracy, consistency and reliability of data.
 
  ### Data Collected
 The dataset includes the following key columns:
