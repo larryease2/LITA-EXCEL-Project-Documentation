@@ -4,7 +4,7 @@
 
 ## General Overview 
 
-This project handles two case studies of Data transformation (Data cleaning and Data extraction) which is a key part of data analysis.
+This project handles two case studies of Data transformation (ETL) which is a key part of data analysis.
 
 ## Case Study One
  A company named “I lost My Records Nigeria Limited” lost their records and was only able to recover the code record. They however gave some vital information that would help in the retrieval of the department code, purchase date code and the asset category code.
